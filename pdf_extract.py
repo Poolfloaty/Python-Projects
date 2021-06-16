@@ -1,4 +1,4 @@
-#pdf_extract
+#Program: pdf_extract
 #Author: Brent Lang
 #Date: 11/30/20
 #Purpose: Program asks for filename to be processed from the user and extract pages from the file.  
