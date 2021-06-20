@@ -1,5 +1,4 @@
 #Program: file_create
-#Assignment: 4
 #Author: Brent Lang
 #Date: 10/31/20
 #Purpose: Program will take file name and it's contents from the user.
