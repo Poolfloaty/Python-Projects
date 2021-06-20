@@ -1,5 +1,4 @@
 #Program: multi_dimensional_array
-#Assignment: Assignment 3
 #Author: Brent Lang
 #Date: 09/15/20
 #Purpose: Program tests the function main and the functions as commented below.
